@@ -1,0 +1,13 @@
+20d984ded4780ed3240417944a86b96f *DESCRIPTION
+24f2596780bcb7b58b22945894323b91 *NAMESPACE
+692490a627d3af0fc40c8bec72b32bee *NEWS.md
+74b12237774e628a270d287c5d7c43cc *R/font-bitstream-vera.R
+ab8db9346f07efdbe983c86b8eff2e11 *R/font-dejavu.R
+06fc05337c66cf919b4385cdc33ba7c3 *R/html-dependency.R
+105baa9f087e1996eaf5fb239ca0c7b0 *R/utils.R
+1f61706dcf683a4e7a5cd9527d700164 *README.md
+36c599f14d62304091813789fb968f9b *man/font_bitstream_vera.Rd
+29505af1cc247f12300aa9f5f520d7fc *man/font_dejavu.Rd
+071015afd6683dea2e91bfa9c046f288 *man/htmlFontDependency.Rd
+4bcef5f837732139b41bf35ef6de758b *tests/testthat.R
+6992234ff6fca3d96a856f6faa7c2f41 *tests/testthat/test-fonts.R
