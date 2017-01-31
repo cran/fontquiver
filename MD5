@@ -1,7 +1,7 @@
-8520e7beecc1525120fd2ea227a161d1 *DESCRIPTION
+232a0efc64c20925727d50c70d67053e *DESCRIPTION
 d71703d7d003c98b2fbdb01b15c6c98a *LICENSE
 5239b647fdc13bc0fd6308534a331a83 *NAMESPACE
-0e07fdb3deeb97652fb0ab759c7f1d65 *NEWS.md
+f5f4cb2a9e4aeb28006183d73f0b7568 *NEWS.md
 2374bb2627c4d655b61f621e8326c168 *R/font-getters.R
 0034c9662760527b2ba667e769765ee2 *R/fontset-bitstream-vera.R
 751fb2fcba2353a62246fef00d40ee7e *R/fontset-dejavu.R
@@ -9,7 +9,7 @@ d71703d7d003c98b2fbdb01b15c6c98a *LICENSE
 0c56ecd16b84d1aa2df147219041b577 *R/fontset-symbola.R
 c0d0b0a8e5154122b180fe96caac80d4 *R/fontset.R
 eda6118561a9494b61e132a4ff443899 *R/html-dependency.R
-064f1ad9e6a7c82e263935a2fbf1cd24 *R/utils.R
+8d6d533730e5d68afcdc8cc208a0ff87 *R/utils.R
 8ba9fc29a33cc4cd48a4756c1ce63b93 *README.md
 c48e72531181b9284c80e64adb6e0e04 *inst/fonts/symbola-VERSION
 7d8d51a2e1b57d59075325384458fac6 *inst/fonts/symbola-fonts/Symbola.ttf
@@ -25,4 +25,4 @@ b7e54fea9d8804eb8be137e04bfca03b *man/fontset_info.Rd
 5b27e30923b4496e1f72f222bec5ffeb *man/splice_fonts.Rd
 4bcef5f837732139b41bf35ef6de758b *tests/testthat.R
 a4dcc1d03d2b221ad20e2bab3e9ab3f2 *tests/testthat/test-fonts.R
-55d01c1f4dec3aab4514db5c61f5f17c *tests/testthat/test-html-dependency.R
+d5e5eed89332dc5b5079cbfe6ca8a4ad *tests/testthat/test-html-dependency.R
